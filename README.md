@@ -19,4 +19,4 @@ Pipeline:
 📊 Dataset:
 
     •	The dataset was obtained from Kaggle (HR Analytics – Employee Attrition dataset).
-    •	The exact dataset is also provided in this repository under /data/ for reproducibility.
+    •	The final cleaned dataset is also provided in this repository.
