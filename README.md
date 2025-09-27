@@ -4,16 +4,17 @@ This project focuses on analyzing employee attrition and related workforce dynam
 The goal is to provide HR managers and decision-makers with actionable insights into attrition trends, employee demographics, job satisfaction, and performance indicators.
 
 
+📁 Workflow:
+
+	•	Data preprocessing and cleaning
+ 	•	Feature engineering (calculated fields, bands, KPIs)
+	•	Interactive dashboards in Tableau
+	
 🔧 Tools:
 
 	•	Tableau Desktop – for visualization and dashboard creation.
 	•	Python for preprocessing – cleaning and formatting dataset before Tableau import.
 
-📁 Project Workflow:
-
-	•	Data preprocessing and cleaning
- 	•	Feature engineering (calculated fields, bands, KPIs)
-	•	Interactive dashboards in Tableau
 
 📊 Dataset:
 
